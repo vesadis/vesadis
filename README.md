@@ -74,31 +74,6 @@
 <br/>
 
 <div align="center">
-  <h3><code>&gt; rhythm</code></h3>
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vesadis&theme=github_dark&utcOffset=8" />
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vesadis&theme=github&utcOffset=8" alt="productive time" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vesadis&theme=github_dark" />
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vesadis&theme=github" alt="most commit language" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=2" width="60%" alt="" />
-</div>
-
-<br/>
-
-<div align="center">
   <h3><code>&gt; contribution snake</code></h3>
 
   <picture>
