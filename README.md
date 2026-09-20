@@ -27,26 +27,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vesadis&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vesadis&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=24292F&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vesadis&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vesadis&theme=github" alt="stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vesadis&hide_border=true&background=00000000&stroke=30363D&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  <img height="170" src="https://streak-stats.demolab.com?user=vesadis&hide_border=true&background=00000000&stroke=E5E7EB&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=57606A&dates=57606A&currStreakNum=1F2328&sideNums=1F2328" alt="streak" />
+  <img height="200" src="https://streak-stats.demolab.com?user=vesadis&hide_border=true&background=00000000&stroke=E5E7EB&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=57606A&dates=57606A&currStreakNum=1F2328&sideNums=1F2328" alt="streak" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vesadis&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&card_width=460&title_color=8B5CF6&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesadis&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&card_width=460&title_color=6366F1&text_color=24292F" alt="languages" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vesadis&theme=github-compact&hide_border=true&bg_color=00000000&color=8B949E&line=8B5CF6&point=FFFFFF&area=true&area_color=6366F1" />
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vesadis&theme=github&hide_border=true&bg_color=00000000&color=57606A&line=6366F1&point=1F2328&area=true&area_color=6366F1" alt="activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vesadis&theme=github_dark" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vesadis&theme=github" alt="profile details" />
 </picture>
 
 </div>
