@@ -1,16 +1,120 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vesadis/vesadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6366F1,100:8B5CF6&text=vesadis&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=twinkling" width="100%" alt="vesadis" />
 
-Here are some ideas to get you started:
+<a href="https://github.com/vesadis">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=460&lines=build+small%2C+ship+often.;simplicity+is+the+hardest+part.;less%2C+but+better." alt="typing" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://x.com/Chiwa_Yuki2"><img src="https://img.shields.io/badge/X-@Chiwa__Yuki2-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000" alt="X"></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=2" width="60%" alt="" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3><code>&gt; activity</code></h3>
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vesadis&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vesadis&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=24292F&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vesadis&hide_border=true&background=00000000&stroke=30363D&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img height="170" src="https://streak-stats.demolab.com?user=vesadis&hide_border=true&background=00000000&stroke=E5E7EB&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=57606A&dates=57606A&currStreakNum=1F2328&sideNums=1F2328" alt="streak" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vesadis&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&card_width=460&title_color=8B5CF6&text_color=C9D1D9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesadis&layout=compact&hide_border=true&bg_color=00000000&langs_count=8&card_width=460&title_color=6366F1&text_color=24292F" alt="languages" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vesadis&theme=github-compact&hide_border=true&bg_color=00000000&color=8B949E&line=8B5CF6&point=FFFFFF&area=true&area_color=6366F1" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vesadis&theme=github&hide_border=true&bg_color=00000000&color=57606A&line=6366F1&point=1F2328&area=true&area_color=6366F1" alt="activity graph" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=2" width="60%" alt="" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3><code>&gt; stack</code></h3>
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,rust,nodejs,python,cpp,linux&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=pytorch,rust,nodejs,python,cpp,linux&theme=light&perline=6" alt="stack" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=2" width="60%" alt="" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3><code>&gt; rhythm</code></h3>
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vesadis&theme=github_dark&utcOffset=8" />
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vesadis&theme=github&utcOffset=8" alt="productive time" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vesadis&theme=github_dark" />
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vesadis&theme=github" alt="most commit language" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=2" width="60%" alt="" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3><code>&gt; contribution snake</code></h3>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vesadis/vesadis/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/vesadis/vesadis/output/github-snake.svg" alt="snake" />
+  </picture>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,100:6366F1&section=footer" width="100%" alt="" />
